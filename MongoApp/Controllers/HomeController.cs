@@ -3,7 +3,6 @@ using DataAccess.Repositories;
 using Microsoft.AspNetCore.Mvc;
 using MongoApp.Models;
 using System.Diagnostics;
-using System.Threading.Tasks;
 
 namespace MongoApp.Controllers
 {
